@@ -1,5 +1,5 @@
 {
-    "name": "octopyid/laravel-impersonate",
+    "name": "rhmdnj/laravel-impersonate",
     "description": "Login as a different user quickly",
     "keywords": [
         "laravel",
@@ -15,8 +15,8 @@
         }
     ],
     "require": {
-        "laravel/framework": "^v7|^v8",
-        "php": "^7.4|^8.0"
+        "laravel/framework": "^5.3|^5.4|^v7|^v8",
+        "php": "^7.1|^7.2|^7.3|^7.4|^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "6.17."
